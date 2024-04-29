@@ -1,8 +1,8 @@
 # bash-a-name
 
-A random name generator that is great for generating names in Tabletop RPGs
+A random name generator in BASH that is great for generating names in Tabletop RPGs
 
-Using lists of consonants and vowels the scrip pulls randomly then attempts to logically place the letters to form a name.
+Using lists of consonants and vowels, the script pulls letters randomly then attempts to logically place them to form a name.
 
 
 ## Installation and setup
