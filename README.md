@@ -4,7 +4,6 @@ A random name generator in BASH that is great for generating names in Tabletop R
 
 Using lists of consonants and vowels, the script pulls letters randomly then attempts to logically place them to form a name.
 
-
 ## Installation and setup
 
 ```sh
@@ -16,13 +15,13 @@ cd bash-a-name
 ```
 
 ```sh
-chmod +x bash-a-name.sh
+chmod +x bash-a-name
 ```
 
 ## Use
 
 ```sh
-./bash-a-name.sh
+./bash-a-name
 ```
 
 ## Examples
